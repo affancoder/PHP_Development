@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: ghostwhite;
+  /* text-align: center; */
+  color: black;
+  font-weight:500;
+  margin: 10px;
+}
+
+.container{
+    max-width: 80%;
+    background-color: aquamarine;
+    padding: 23px;
+    margin: auto;
+}
