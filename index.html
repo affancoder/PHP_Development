@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Travel Trip Form</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <img src="trip-bg.jpg" alt="img">
+    <div class="container">
+      <h1>Welcome to India. Trip Form</h1>
+      <p>Enter your details and submit to confirm participation in trip</p>
+      <p class="submitMsg">Thanks for submitting form</p>
+
+      <form action="index.php" method="post"></form>
+      <input type="text" name="name" id="name" placeholder="Jacob Abdul" />
+      <input type="number" name="age" id="age" placeholder="enter your age" />
+      <input type="text" name="gender" id="gender" placeholder="male" />
+      <input
+        type="email"
+        name="email"
+        id="email"
+        placeholder="affan@gmail.com"
+      />
+      <input type="phone" name="phone" id="phone" placeholder="2589631470" />
+      <textarea
+        name="desc"
+        id="desc"
+        cols="30"
+        rows="10"
+        placeholder="Describe yourself"
+      ></textarea>
+      <div class="button">
+        <button class="btn">Submit</button>
+        <button class="btn">Reset</button>
+      </div>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
