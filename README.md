@@ -4,6 +4,8 @@
 
 I am currently learning **PHP** with **MySQL** to enhance my backend development skills. This includes understanding PHP syntax, database connectivity, CRUD operations, and server-side scripting.
 
+https://github.com/user-attachments/assets/0050397b-0f17-421b-b2e9-64f9473f6617
+
 ## Topics Covered
 
 - Basics of PHP (Variables, Loops, Functions, Arrays)
